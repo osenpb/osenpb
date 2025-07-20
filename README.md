@@ -1,6 +1,6 @@
 <!-- TODO: Add last video link -->
 
-<h1 align="center"> Hi! I'm Osen <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
+<h1 align="center"> Hi, I'm Osen <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
 I'm Osen, a passionate Software Engineering student 💻.
 
@@ -12,8 +12,9 @@ I'm Osen, a passionate Software Engineering student 💻.
 
 ### 💻 Languages & Databases
 
-| <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"> | <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="40"> | <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40"> | <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45"/> |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"> | <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="40"> | <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40"> | <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40"> | <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45"/> |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+
 
 ---
 
