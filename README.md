@@ -4,7 +4,7 @@
 
 I'm Osen, a passionate Software Engineering student 💻.
 
-- 🌱 I’m currently learning about **React** and **Spring Boot**.
+- 🌱 I’m currently learning about **React** and **Spring Cloud**.
 - 💻 Most used line of code: `git commit -m "Initial Commit"`.
 - 🤝 I’m looking for an internship opportunity in backend or full-stack development.
 
