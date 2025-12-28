@@ -4,7 +4,7 @@
 
 I'm Osen, a passionate Software Engineering student 💻.
 
-- 🌱 I’m currently learning about **React** and **Spring Cloud**.
+- 🌱 I’m currently learning about **Angular** and **Spring Cloud**.
 - 💻 Most used line of code: `git commit -m "Initial Commit"`.
 - 🤝 I’m looking for an internship opportunity in backend or full-stack development.
 
@@ -19,7 +19,7 @@ I'm Osen, a passionate Software Engineering student 💻.
 
 ### 🛠️ Frameworks & Tools
 
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"> | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"> | <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="40"> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"> | <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="40"> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original-wordmark.svg" width="40"> | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"> | <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="40"> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"> | <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="40"> |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 ---
