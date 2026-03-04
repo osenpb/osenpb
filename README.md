@@ -34,4 +34,4 @@ I design and build scalable REST APIs and backend systems using Java, Spring Boo
 
 - Programming instructor
 - Interested in software architecture
-- Gym & music production
+- Gym & electronic music
