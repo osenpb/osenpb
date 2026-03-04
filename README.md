@@ -1,29 +1,35 @@
-<!-- TODO: Add last video link -->
+# Hi there! 👋
 
-<h1 align="center"> Hi, I'm Osen </h1>
-
-I'm Osen, a passionate Software Engineering student 💻.
-
-- 🌱 I’m currently learning about **Angular** and **Spring Cloud**.
-- 💻 Most used line of code: `git commit -m "Initial Commit"`.
-- 🤝 I’m looking for an internship opportunity in backend or full-stack development.
+I'm **Oswaldo**, a backend-focused developer based in Peru.  
+I design and build scalable REST APIs and backend systems using Java, Spring Boot and microservices architecture.
 
 ---
 
-### 💻 Languages & Databases
+## 🚀 These days I’m focused on:
 
-| <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"> | <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="40"> | <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40"> | <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"> |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-
+- Kafka & Spring Cloud
+- REST API design
+- Database design (SQL)
+- Angular (full stack integration)
 ---
 
-### 🛠️ Frameworks & Tools
+## 🛠 Some stuff I built:
 
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original-wordmark.svg" width="40"> | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"> | <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="40"> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"> | <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="40"> |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-
+- **Order System (Microservices)** – Inventory and order management system built with Spring Boot. Includes secure authentication with Keycloak and resilience patterns using Circuit Breaker (Resilience4j).
+- **Osen Shop** – Minimalist full stack e-commerce application built with Spring Boot and Angular. Includes product catalog, shopping cart and MercadoPago payment gateway integration.
+- **Ayni Hotels** – Web platform connecting clients with hotels across Peru. Includes role-based access control, booking logic and layered backend architecture.
+- **SaaS Legal Search Platform** – Filter-based legal document search engine. (work in progress)
 ---
 
-> 🔧 _This README was inspired by [NavodyaPasqual](https://github.com/NavodyaPasqual)_
+## 🎯 Currently:
 
-🕓 **Last Edited on:** 19/07/2025
+- Deepening knowledge in distributed systems
+- Improving backend architecture patterns
+- Studying networking fundamentals
+---
+
+## ⚡ Fun Facts:
+
+- Programming instructor
+- Interested in software architecture
+- Gym & music production
