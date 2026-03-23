@@ -20,7 +20,7 @@ I design and build scalable REST APIs and backend systems using Java, Spring Boo
 - **[Osen Shop](https://github.com/osenpb/f_osenshop)** – Minimalist full stack e-commerce application built with Spring Boot and Angular. Includes product catalog, shopping cart and MercadoPago payment gateway integration.
 
 - **[Ayni Hotels](https://github.com/osenpb/f_ayni_sistema_reservas)** – Web platform connecting clients with hotels across Peru. Includes role-based access control, booking logic and layered backend architecture.
-- 
+
 - **SaaS Legal Search Platform** – Filter-based legal document search engine. (work in progress)
 
 - **[Kanban MiniApp](https://github.com/osenpb/kanban-mini-app)** - Mini app kanban to track tasks.
