@@ -23,7 +23,7 @@ I design and build scalable REST APIs and backend systems using Java, Spring Boo
 
 - **SaaS Legal Search Platform** – Filter-based legal document search engine. (work in progress)
 
-- **[RealtimeChat](https://github.com/osenpb/RTChat)** - Real-time chat with user-friendly UX/UI. Using STOMP protocol and SockJS.
+- **[RTChat](https://github.com/osenpb/RTChat)** - Real-time chat with user-friendly UX/UI. Using STOMP protocol and SockJS.
  
 - **[Kanban MiniApp](https://github.com/osenpb/kanban-mini-app)** - Mini app Kanban to track tasks.
 
