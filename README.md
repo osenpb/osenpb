@@ -7,10 +7,10 @@ I design and build scalable REST APIs and backend systems using Java, Spring Boo
 
 ## These days I’m focused on:
 
-- Kafka & Spring Cloud
-- REST API design
-- Database design (SQL)
-- Angular (full stack integration)
+- System design
+- Product design
+- Database advanced (SQL)
+- Cloud
 ---
 
 ## Some stuff I built:
