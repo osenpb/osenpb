@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm **Oswaldo**, a backend-focused developer based in Peru.  
+I'm **Oswaldo**, a product-focused developer based in Peru.  
 I design and build scalable REST APIs and backend systems using Java, Spring Boot and microservices architecture.
 
 ---
@@ -10,7 +10,7 @@ I design and build scalable REST APIs and backend systems using Java, Spring Boo
 - System design
 - Product design
 - Database advanced (SQL)
-- Cloud
+- Cloud (AWS)
 ---
 
 ## Some stuff I built:
