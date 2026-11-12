@@ -23,7 +23,7 @@ I design and build scalable REST APIs and backend systems using Java, Spring Boo
 
 - **SaaS Legal Search Platform** – Filter-based legal document search engine. (work in progress)
 
-- **[HyraxDB](https://github.com/osenpb/HyraxDB)** - A rust-based database client for rapid search. (work in progress)
+- **[Hyrax Studio](https://github.com/osenpb/HyraxDB)** - A rust-based database client for rapid search. (work in progress)
 
 - **zed-spring-boot** - Experimental plugin for Zed editor (work in progress)
 
